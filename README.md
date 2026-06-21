@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Priyal Jain 👋
 
-<!--
-**priyaljain10/priyaljain10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence & Data Science Student
 
-Here are some ideas to get you started:
+💻 Interested in Full Stack Development, AI/ML, and Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+
+* Data Structures & Algorithms
+* React
+* Node.js
+* Machine Learning
+
+🚀 Projects
+
+* Event Management & Ticketing System
+* Image Steganography using LSB
+* AI-based Applications
+* Web Development Projects
+
+🛠️ Tech Stack
+Languages: Python, C++, JavaScript
+
+Frontend: HTML, CSS, React
+
+Backend: Node.js, Express
+
+Database: MySQL, PostgreSQL
+
+Tools: Git, GitHub, VS Code, Postman
+
+📫 Connect With Me
+LinkedIn: linkedin.com/in/jain-priyal10
+Email: priyaljn@gmail.com
+
+⭐ Always open to learning and collaborating on interesting projects.
